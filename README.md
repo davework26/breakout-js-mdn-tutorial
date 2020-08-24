@@ -20,4 +20,4 @@ My solution code and interactive demo can be found [here](https://codepen.io/Dav
 ![JS Breakout](./../Screenshots/jsBreakout.JPG?raw=true "JS Breakout")
 
 ## Game Instructions
-Use the keyboard left & right arrow/cursor keys or the mouse to move the bat left and right to hit the ball against the wall to hit each brick 7 times to eventually destroy it and the wall.
+Use the keyboard left & right arrow/cursor keys or the mouse to move the bat left and right to hit the ball against the wall. Destroy the wall by hitting every brick 7 times, causing them to change colour.
